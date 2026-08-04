@@ -1,10 +1,9 @@
 # ISO 22514-2 Process Capability & Performance Calculator
 
-An R Shiny tool for calculating process capability and performance indices (Cp/Cpk, Pp/Ppk) following the procedure described in **ISO 22514-2:2017 — Statistical methods in process management — Capability and performance — Part 2: Process capability and performance of time-dependent process models**.
+An R Shiny tool for calculating process capability and performance indices (Cp/Cpk, Pp/Ppk) following the procedure described in **ISO 22514-2:2017 Statistical methods in process management  Capability and performance  Part 2: Process capability and performance of time-dependent process models**.
 
-Built as course material for teaching AIAG-VDA / ISO 22514 harmonization concepts. Load your own data, or use the built-in example generator (synthetic data simulating each of the standard's eight time-dependent distribution models) to explore how the standard's procedure works end to end.
+Built as course material for teaching AIAG-VDA / ISO 22514 harmonization concepts. Load your own data, or use the built-in example generator to explore how the standard's procedure works end to end.
 
-For the full walkthrough — including how to classify a process into one of the eight models, why the calculation method matters, and why comparing indices across methods isn't meaningful — see the companion article: [ADD LINK HERE] on LinkedIn.
 
 ## What it does
 
